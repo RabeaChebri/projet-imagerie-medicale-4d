@@ -11,6 +11,7 @@ MATLAB
 App Designer
 Instrumentation ultrasonore
 Acquisition de données
+
 Compétences développées
 Développement IHM
 Traitement des données
